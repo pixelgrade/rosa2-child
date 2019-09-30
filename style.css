@@ -1,0 +1,20 @@
+/*
+Theme Name: Rosa 2 Child
+Theme URI: https://demos.pixelgrade.com/rosa2
+Author: Pixelgrade
+Author URI: https://pixelgrade.com
+Description: ROSA is an enchanting and easy-to-use parallax Restaurant WordPress theme that allows you to tell your story in a dynamic, narrative and enjoyable way, making it perfect for restaurants, bakeries, bars or coffee shops.
+Template: rosa2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: rosa2-child-theme
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, fluid-layout, responsive-layout, parallax, translation-ready, restaurant
+
+*/
+
+/* ADD YOUR NEW CSS RULES HERE */
+
+/* This file assumes you wish to add new CSS rules that will overwrite the ones in the parent's CSS files
+If you wish however, you can copy the whole style.css file from the parent here and hack at it - see functions.php for more details.
+In that case please remember that you still need to retain the header above (replace the header of the parent style.css with the one above),
+specifically the 'Template: rosa2' line. */
