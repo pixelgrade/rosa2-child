@@ -33,7 +33,7 @@ function rosa2_child_enqueue_styles() {
 	// all of the parents assets (style.css, JS files, etc)
 	wp_enqueue_style( 'rosa-child-style',
 		get_stylesheet_uri(),
-		array('rosa2-theme-styles') //make sure the the child's style.css comes after the parents so you can overwrite rules
+		array('rosa2-theme') //make sure the the child's style.css comes after the parents so you can overwrite rules
 	);
 }
 add_action( 'wp_enqueue_scripts', 'rosa2_child_enqueue_styles' );
